@@ -7,5 +7,5 @@ exports.hex = function(input) {
 };
 
 exports.test = function(name) {
-    return input.name;
+    console.log(name);
 };
