@@ -7,5 +7,5 @@ exports.hex = function(input) {
 };
 
 exports.test = function(name) {
-    console.log(name);
+    console.log(name, 'This is from github');
 };
