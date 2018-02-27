@@ -5,3 +5,7 @@ exports.bin = function(input) {
 exports.hex = function(input) {
     return input.toString(16);
 };
+
+exports.test = function(name) {
+    return input.name;
+};
